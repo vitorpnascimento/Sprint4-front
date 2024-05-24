@@ -27,7 +27,7 @@ Este projeto é desenvolvido como parte da **Sprint 4** do nosso curso, focando 
 Para executar este projeto localmente com Vite, siga os passos abaixo:
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/vitorpnascimento/Sprint4-front
    ```
 2. Instale as dependências:
    ```bash
